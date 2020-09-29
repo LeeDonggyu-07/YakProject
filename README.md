@@ -1,7 +1,8 @@
 ### Yakproject (Korean pill search tool)
 **이동규, 주진표, 김규빈, 정도영, 김태현**    
-[주진표 Github에 중복 업로드](https://github.com/jinpyojoo/Yakproject)
+*[주진표 Github에 중복 업로드](https://github.com/jinpyojoo/Yakproject)*
 
+**본 프로젝트는 2019년 개발 및 연구 시작 후 방치되어 욌으며, 개발이 중단되어 있습니다. 개발은 새로운 의약품 검색 서비스로 다시 시작할 예정입니다.**
 #### 안내
 해당 연구 보고서는 2019년 제작 당시의 보고서입니다.<br>이후 수정되거나 보완되는 기능이 있을 수 있습니다.    
 약프로젝트는 누구나 출처표기없이 연구/제작용도로 사용할 수 있습니다.    
